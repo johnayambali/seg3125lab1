@@ -1,0 +1,50 @@
+
+
+h1 {
+    
+}
+
+form{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+
+.sub_head{
+    text-align: center;
+
+}
+
+legend {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    padding: 5px 10px;
+  }
+
+fieldset{
+    
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  
+  
+}
+.question{
+    
+}
+
+.hb_link{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.signature{
+    text-align: right;
+    font-style: italic;
+    font-size: 75%;
+}
